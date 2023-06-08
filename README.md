@@ -1,5 +1,9 @@
 # Excel_to_JSON_Converter7
 
+# supported
+Windows10
+Windows11
+
 # how to use
 Download the executable file from release and run it.
 Specify the Excel file and select the sheet with the tables you wish to convert.
