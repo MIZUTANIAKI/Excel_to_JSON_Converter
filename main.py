@@ -50,9 +50,6 @@ def convert_to_json():
 
                     data_row = dict(zip(header, values))
 
-                    if "description" in data_row:
-                        del data_row["description"]
-
                     for cell in data_row:
                         try:
                             data_row[cell] = json.loads(data_row[cell])
