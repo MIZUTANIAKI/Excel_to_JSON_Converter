@@ -1,4 +1,7 @@
-# Excel_to_JSON_Converter7
+# Excel_to_JSON_Converter
+
+# attention
+Macro functions in Excel are not supported. For macro cells, you will get the macro statement as is.
 
 # supported
 Windows10
